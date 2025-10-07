@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/brunoaureliodelisboa/brunoaureliodelisboa/blob/main/README.md" target="_blank">
+  <a href="https://github.com/brunoaureliodelisboa/brunoaureliodelisboa/" target="_blank">
     <img src="https://raw.githubusercontent.com/brunoaureliodelisboa/brunoaureliodelisboa/main/LOGO.png" alt="Logo Pessoal de Bruno Aurélio de Lisboa" width="150">
   </a>
   <h1>
