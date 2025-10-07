@@ -1,9 +1,9 @@
-<div align="center">
+<div align="center" style="pointer-events: none;">  <img src="https://raw.githubusercontent.com/brunoaureliodelisboa/brunoaureliodelisboa/main/LOGO.png" alt="Logo Pessoal de Bruno Aurélio de Lisboa" width="150">
   <h1>
     <b>Bruno Aurélio de Lisboa</b>
   </h1>
   <h3>
-    Desenvolvedor Java - Backend
+    Desenvolvedor de Software & Full-Stack
   </h3>
 </div>
 
@@ -14,7 +14,7 @@
     <td valign="top" width="60%">
       <h2>👨‍💻 Sobre Mim</h2>
       <p>
-        Olá! Sou Desenvolvedor de Software e estudante de Ciência da Computação na <strong>UNIFG</strong>. Minha jornada começou há muitos anos, <strong>desde os 12 anos de idade já era envolvido com TI</strong>. Hoje, estou me especializando em <strong>Java</strong>.
+        Olá! Sou Desenvolvedor de Software e estudante de Ciência da Computação na <strong>UNIFFG</strong>. Minha jornada começou há muitos anos, <strong>desde os 12 anos de idade já era envolvido com TI</strong>. Hoje, estou me especializando em <strong>Java</strong>.
       </p>
       <ul>
         <li>🔭 Atualmente estudando e aprimorando minhas habilidades em Java, especificamente no desenvolvimento backend.</li>
