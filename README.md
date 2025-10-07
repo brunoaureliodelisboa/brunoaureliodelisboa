@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1bLF2LbrfR1l7X__Ecn4VGS7n-Y6XcBqL" alt="Logo Pessoal de Bruno Aurélio de Lisboa" width="150">
+  <img src="https://raw.githubusercontent.com/brunoaureliodelisboa/brunoaureliodelisboa/main/BL.png" alt="Logo Pessoal de Bruno Aurélio de Lisboa" width="150">
   <h1>
     <b>Bruno Aurélio de Lisboa</b>
   </h1>
   <h3>
-    Desenvolvedor Java - Backend
+    Desenvolvedor de Software & Full-Stack
   </h3>
 </div>
 
@@ -15,18 +15,17 @@
     <td valign="top" width="60%">
       <h2>👨‍💻 Sobre Mim</h2>
       <p>
-        Olá! Trabalho com TI a mais de 4 anos de experiência, apaixonado por criar soluções robustas e escaláveis. Com um background que vai de sistemas embarcados em <strong>Java</strong> à criação de aplicações web modernas com <strong>React</strong>, busco constantemente desafios que me permitam aprender e aplicar novas tecnologias para resolver problemas complexos.
+        Olá! Sou Desenvolvedor de Software e estudante de Ciência da Computação na UNIFFG. Minha jornada começou anos atras <strong>desde os 12 anos de idade ja era envolvido com TI</strong>, Hoje estou me especializando em <strong>Java</strong>.
       </p>
       <ul>
-        <li>🎓 Cursando <strong>Ciência da Computação</strong> na UNIFEI.</li>
-        <li>🔭 Focado em arquiteturas de software limpas e performáticas.</li>
-        <li>🌱 Atualmente explorando mais sobre <strong>Java</strong> e <strong>Arquitetura de Microsserviços</strong>.</li>
+        <li>🔭 Atualmente Estudando e aprimorando minhas habilidades em Javva especificamente em backend.</li>
+        <li>🌱 Sempre aberto a aprender e explorar novas tecnologias.</li>
       </ul>
     </td>
     <td valign="top" width="40%">
       <h2>🛠️ Tecnologias & Ferramentas</h2>
       <p align="left">
-        <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+        <a href="https://openjdk.org/" target="_blank"><img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=black" alt="Java"></a>
       </p>
     </td>  
   </tr>
@@ -37,12 +36,4 @@
 <div align="center">
   <h2>📊 Minhas Estatísticas no GitHub</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=brunoaureliodelisboa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas de Bruno Aurélio no GitHub" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaureliodelisboa&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Bruno Aurélio" width="49%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>📫 Vamos nos Conectar!</h2>
-  <p>Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato.</p>
-  <a href="https://www.linkedin.com/in/bruno-aurelio-de-lisboa/" target="_blank"><img src="
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaureliodelisboa&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Bruno Aurélio"
