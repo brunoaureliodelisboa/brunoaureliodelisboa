@@ -9,20 +9,20 @@
 
 <div style="padding: 15px; color: #00ff00; font-size: 14px; line-height: 1.6;">
   <pre style="white-space: pre-wrap; word-wrap: break-word; margin: 0;">
-<span style="color: #00ff00;">[SEU-USUARIO-GITHUB]</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">./start.sh</span>
+<span style="color: #00ff00;">.]</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">./start.sh</span>
 
 Iniciando sequência de boot...
 Bem-vindo(a) ao meu perfil!
 
-<span style="color: #00ff00;">[SEU-USUARIO-GITHUB]</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">cat /sobre_mim.txt</span>
+<span style="color: #00ff00;">brunoaureliodelisboa</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">cat /sobre_mim.txt</span>
 
 > Olá! Eu sou Bruno, um(a) Desenvolvedor Backend de Aparecida/SP.
 > Atualmente, estou focado(a) em Java e sempre
 > buscando aprender mais sobre Desenvolvedor Backend.
 > Sou apaixonado(a) por transformar ideias em código limpo e funcional.
 
-<span style="color: #00ff00;">[SEU-USUARIO-GITHUB]</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">ls /habilidades</span>
+<span style="color: #00ff00;">brunoaureliodelisboa</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">ls /habilidades</span>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=black" alt="Java"/>
   <img src="
