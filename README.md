@@ -1,28 +1,51 @@
-<div style="background-color: #151515; border-radius: 8px; padding: 20px; font-family: 'Courier New', Courier, monospace;">
-
-<div style="background-color: #333; padding: 5px; border-radius: 5px 5px 0 0; display: flex; align-items: center;">
-  <span style="background-color: #ff5f56; border-radius: 50%; width: 12px; height: 12px; display: inline-block; margin-right: 8px;"></span>
-  <span style="background-color: #ffbd2e; border-radius: 50%; width: 12px; height: 12px; display: inline-block; margin-right: 8px;"></span>
-  <span style="background-color: #27c93f; border-radius: 50%; width: 12px; height: 12px; display: inline-block;"></span>
-  <span style="color: #ccc; margin: 0 auto; font-size: 14px;">/dev/terminal/Bruno</span>
+<div align="center">
+  <img src="https://i.imgur.com/gCCM51c.png" alt="Logo Pessoal de Bruno Aurélio de Lisboa" width="150">
+  <h1>
+    <b>Bruno Aurélio de Lisboa</b>
+  </h1>
+  <h3>
+    Desenvolvedor de Software & Full-Stack
+  </h3>
 </div>
 
-<div style="padding: 15px; color: #00ff00; font-size: 14px; line-height: 1.6;">
-  <pre style="white-space: pre-wrap; word-wrap: break-word; margin: 0;">
-<span style="color: #00ff00;">.]</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">./start.sh</span>
+<br>
 
-Iniciando sequência de boot...
-Bem-vindo(a) ao meu perfil!
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>👨‍💻 Sobre Mim</h2>
+      <p>
+        Olá! Sou um Desenvolvedor de Software com mais de 4 anos de experiência, apaixonado por criar soluções robustas e escaláveis. Com um background que vai de sistemas embarcados em Java à criação de aplicações web modernas com <strong>React</strong>, busco constantemente desafios que me permitam aprender e aplicar novas tecnologias para resolver problemas complexos.
+      </p>
+      <ul>
+        <li>🎓 Cursando <strong>Ciência da Computação</strong> na UNIFEI.</li>
+        <li>🔭 Focado em arquiteturas de software limpas e performáticas.</li>
+        <li>🌱 Atualmente explorando mais sobre <strong>Java</strong> e <strong>Arquitetura de Microsserviços</strong>.</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <h2>🛠️ Tecnologias & Ferramentas</h2>
+      <p align="left">
+          <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=black" alt="Java"></a>
+      </p>
+    </td>   
+  </tr>
+</table>
 
-<span style="color: #00ff00;">brunoaureliodelisboa</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">cat /sobre_mim.txt</span>
+<br>
 
-> Olá! Eu sou Bruno, um(a) Desenvolvedor Backend de Aparecida/SP.
-> Atualmente, estou focado(a) em Java e sempre
-> buscando aprender mais sobre Desenvolvedor Backend.
-> Sou apaixonado(a) por transformar ideias em código limpo e funcional.
+<div align="center">
+  <h2>📊 Minhas Estatísticas no GitHub</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoaureliodelisboa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas de Bruno Aurélio no GitHub" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaureliodelisboa&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Bruno Aurélio" width="49%"/>
+</div>
 
-<span style="color: #00ff00;">brunoaureliodelisboa</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">ls /habilidades</span>
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=black" alt="Java"/>
-  <img src="
+<div align="center">
+  <h2>📫 Vamos nos Conectar!</h2>
+  <p>Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato.</p>
+  <a href="https://www.linkedin.com/in/bruno-aurelio-de-lisboa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:brunoaureliolisboa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://brunoaureliodelisboa.github.io/" target="_blank"><img src="https://img.shields.io/badge/Meu%20Portfólio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfólio"></a>
+</div>
