@@ -1,16 +1,28 @@
-## Hi there 👋
+<div style="background-color: #151515; border-radius: 8px; padding: 20px; font-family: 'Courier New', Courier, monospace;">
 
-<!--
-**brunoaureliodelisboa/brunoaureliodelisboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="background-color: #333; padding: 5px; border-radius: 5px 5px 0 0; display: flex; align-items: center;">
+  <span style="background-color: #ff5f56; border-radius: 50%; width: 12px; height: 12px; display: inline-block; margin-right: 8px;"></span>
+  <span style="background-color: #ffbd2e; border-radius: 50%; width: 12px; height: 12px; display: inline-block; margin-right: 8px;"></span>
+  <span style="background-color: #27c93f; border-radius: 50%; width: 12px; height: 12px; display: inline-block;"></span>
+  <span style="color: #ccc; margin: 0 auto; font-size: 14px;">/dev/terminal/Bruno</span>
+</div>
 
-Here are some ideas to get you started:
+<div style="padding: 15px; color: #00ff00; font-size: 14px; line-height: 1.6;">
+  <pre style="white-space: pre-wrap; word-wrap: break-word; margin: 0;">
+<span style="color: #00ff00;">[SEU-USUARIO-GITHUB]</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">./start.sh</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Iniciando sequência de boot...
+Bem-vindo(a) ao meu perfil!
+
+<span style="color: #00ff00;">[SEU-USUARIO-GITHUB]</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">cat /sobre_mim.txt</span>
+
+> Olá! Eu sou Bruno, um(a) Desenvolvedor Backend de Aparecida/SP.
+> Atualmente, estou focado(a) em Java e sempre
+> buscando aprender mais sobre Desenvolvedor Backend.
+> Sou apaixonado(a) por transformar ideias em código limpo e funcional.
+
+<span style="color: #00ff00;">[SEU-USUARIO-GITHUB]</span><span style="color: #ccc;">@github.com</span><span style="color: #00ff00;">:~$</span> <span style="color: #fff;">ls /habilidades</span>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="
