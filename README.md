@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brunoaureliodelisboa/brunoaureliodelisboa/main/LOGO.png" alt="Logo Pessoal de Bruno Aurélio de Lisboa" width="150">
   <h1>
     <b>Bruno Aurélio de Lisboa</b>
   </h1>
