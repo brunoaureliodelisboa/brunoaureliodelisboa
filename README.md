@@ -12,6 +12,11 @@
 
 <br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=github" alt="Status Online">
+  <img src="https://img.shields.io/badge/Disponível%20para%20Contato-blueviolet?style=for-the-badge&logo=linkedin" alt="Disponível para Contato">
+</p>
+
 <table>
   <tr>
     <td valign="top" width="60%">
